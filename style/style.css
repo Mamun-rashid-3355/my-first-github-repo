@@ -1,4 +1,12 @@
 div{
-    font-size: 30px;
+   margin-top: 20px;
+   padding: 20px;
     background-color: tomato;
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    text-align: justify;
 }
